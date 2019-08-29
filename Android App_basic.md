@@ -310,7 +310,8 @@ public class MainActivity extends AppCompatActivity {
   - androidX로 이전!!!!!
 - alert 활용 방법 https://lktprogrammer.tistory.com/155
 
-
+- 안드로이드 세부 정리 짱 https://m.blog.naver.com/eominsuk55/220981899946
+- 카메라로 사진 찍어서 저장하고 앨범 읽기 https://g-y-e-o-m.tistory.com/48
 
 
 
@@ -335,4 +336,22 @@ https://recipes4dev.tistory.com/69 (activity 추가 방법)
 [https://blog.naver.com/PostView.nhn?blogId=nakim02&logNo=221314504768&from=search&redirect=Log&widgetTypeCall=true&directAccess=false%20%EC%B6%9C%EC%B2%98:%20https://vvh-avv.tistory.com/148?category=787152%20[%EC%A0%95%EB%A6%AC%EC%9E%98%ED%95%98%EA%B3%A0%EC%8B%B6%EB%8B%A4\]](https://blog.naver.com/PostView.nhn?blogId=nakim02&logNo=221314504768&from=search&redirect=Log&widgetTypeCall=true&directAccess=false 출처: https://vvh-avv.tistory.com/148?category=787152 [정리잘하고싶다]) (activity context문법 정리)
 
 https://vvh-avv.tistory.com/148?category=787152 (음성인식 구현방법 / 입출력)
+
+https://github.com/sdsb8432/SpeechToText-Android (STT 완벽 구현) ★★★★ 써도 되려나
+
+http://m.blog.daum.net/mailss/20?categoryId=3 (구글 음성인식 앱 실행)
+
+https://cocomo.tistory.com/412 (spring 기반 웹에 안드로이드 연결)
+
+
+
+- basic
+
+console.log ==   System.out.println(school_name + " " + school_class);
+
+print + line = 출력하면서 한 줄 개행해라
+
+System.out.flush(); = console에 보인다
+
+input == System.in
 
